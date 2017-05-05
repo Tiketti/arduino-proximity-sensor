@@ -1,0 +1,17 @@
+{
+  "name": "arduino-proximity-sensor",
+  "version": "1.0.0",
+  "description": "Measure distance with HC-SR04 ultrasonic sensor and display on LCD",
+  "main": "main.ino",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arduino",
+    "lcd",
+    "proximity",
+    "hc-sr04"
+  ],
+  "author": "Perttu Haliseva",
+  "license": "MIT"
+}
